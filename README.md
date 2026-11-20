@@ -65,7 +65,7 @@ Para executar o projeto, você precisará de:
 1. Clone este repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/YuriC4rv/criptography-securevault.git
 ```
 
 2. Abra o Eclipse IDE.
